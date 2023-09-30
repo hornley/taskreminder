@@ -1,7 +1,7 @@
 **********************
 Task Reminder by hornley
 **********************
-Version: Alpha-1.3.0
+Version: Alpha-1.4.0
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Task Reminder is written in **Python**.
@@ -28,16 +28,13 @@ How to use::
     - Backup
 
 - To be added:
-    - Minimizable to task bar (background app)
-    - Window pop up
-    - Near Due pop up
     - Hotkey to open and close
     - One window only (Improvement)
     - Check for updates or Auto-update
-    - Importance Dropdown
     - Custom Background (Colors or Images)
     - Delete previous versions of TaskReminder after an install
     - Settings instead of config.txt
+    - Update Features of RST
 
 socials
 --------
@@ -67,3 +64,16 @@ versions
     - Fixed Tast.txt overwritten after a new update
     - Fixed the X button of each window not closing properly
     - Fixed Backup/Logging path does not exist error
+- Alpha-1.4.0 (09-30-2023)
+    - Added a date chooser or calendar gui for the due date
+    - Added an option menu for priority
+    - Added Reset after a modification in config
+    - Added done button in specific task window, choose a subtask within the chosen task to remove as done
+    - Added settings for each window (Only Topmost option available)
+    - Added Check for almost due tasks
+    - Subtask near due date pop up
+    - Backup disable and enable config
+    - Minimizable to taskbar config
+    - Change some text buttons
+    - Fixed Specific Showed Task not closing the other windows
+    - Fixed error messages

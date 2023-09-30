@@ -1,0 +1,50 @@
+# Still under development
+
+
+[ICON]
+
+# ICON_OPTION
+# Custom icon option
+# > 0 for no (default)
+# > 1 for yes
+
+icon_option = 0
+
+# ICON_PATH
+# Only use this file formats or file types
+# > PNG
+# > GIF
+# > PPM
+
+icon_path = 
+
+[VISUAL]
+
+# THEME
+# > blue (default)
+# > dark-blue
+# > green
+
+theme = blue
+
+[APP]
+
+# MODIFY_RESET
+# Reset after every modification settings
+# 0 for no (default)
+# 1 for yes
+modify_reset = 0
+
+# BACKUP
+# Makes a backup of the Tasks.txt once the app is opened and once the app is closed
+# 0 for no (default)
+# 1 for yes
+backup = 0
+
+# MINIMIZABLE
+# Minimizable to taskbar option
+# 0 for no (default)
+# 1 for yes
+minimizable = 0
+
+version = 1.4.0

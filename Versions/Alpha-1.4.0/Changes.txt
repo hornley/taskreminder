@@ -1,0 +1,14 @@
+Changes:
+Current Version: Alpha-1.3.
+> Added a date chooser or calendar gui for the due date
+> Added an option menu for priority
+> Added Reset after a modification in config
+> Added done button in specific task window, choose a subtask within the chosen task to remove as done
+> Added settings for each window (Only Topmost option available)
+> Added Check for almost due tasks
+> Subtask near due date pop up
+> Backup disable and enable config
+> Minimizable to taskbar config
+> Change some text buttons
+> Fixed Specific Showed Task not closing the other windows
+> Fixed error messages
