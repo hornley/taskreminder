@@ -1,7 +1,7 @@
 **********************
 Task Reminder by hornley
 **********************
-Version: Alpha-1.4.1
+Version: Alpha-1.4.1 (1.3.0 only available!)
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Task Reminder is written in **Python**.
@@ -77,5 +77,5 @@ versions
     - Change some text buttons
     - Fixed Specific Showed Task not closing the other windows
     - Fixed error messages
-- Alpha-1.4.1 (10-02-2023)
+- Alpha-1.4.1 (10-02-2023) 
     - Fixed adding of due date having nothing within its window
