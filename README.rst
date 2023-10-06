@@ -77,5 +77,3 @@ versions
     - Change some text buttons
     - Fixed Specific Showed Task not closing the other windows
     - Fixed error messages
-- Alpha-1.4.1 (10-02-2023) 
-    - Fixed adding of due date having nothing within its window
