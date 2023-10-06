@@ -1,7 +1,7 @@
 **********************
 Task Reminder by hornley
 **********************
-Version: Alpha-1.4.1 (1.3.0 only available!)
+Version: Alpha-1.4.0 (1.3.0 only available!)
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Task Reminder is written in **Python**.
