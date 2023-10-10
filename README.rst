@@ -5,6 +5,7 @@ Version: Alpha-2.0.0
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Task Reminder is written in **Python**.
+
 **CHECK FOR UPDATES DOES NOT WORK AS OF THIS MOMENT!**
 
 
