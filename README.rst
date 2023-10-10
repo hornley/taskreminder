@@ -1,7 +1,7 @@
 **********************
 Task Reminder by hornley
 **********************
-Version: Alpha-1.4.1 (1.3.0 only available!)
+Version: Alpha-2.0.0
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Task Reminder is written in **Python**.
@@ -25,15 +25,24 @@ How to use::
     - Logging
         - Changes
         - Errors
+    - Settings
+        - Main Settings (accessible through the main window)
+            - Minimizable option
+            - Backup option
+            - Topmost option
+            - Reset after modification option
+            - Icon option
+            - Theme option
+            - Check for updates button
+        - Window settings (for other windows other than the main)
+            - Topmost option
     - Backup
 
 - To be added:
     - Hotkey to open and close
     - One window only (Improvement)
-    - Check for updates or Auto-update
     - Custom Background (Colors or Images)
     - Delete previous versions of TaskReminder after an install
-    - Settings instead of config.txt
     - Update Features of RST
 
 socials
@@ -77,5 +86,11 @@ versions
     - Change some text buttons
     - Fixed Specific Showed Task not closing the other windows
     - Fixed error messages
-- Alpha-1.4.1 (10-02-2023) 
-    - Fixed adding of due date having nothing within its window
+- Alpha-2.0.0 (10-10-2023)
+    - Removed Show Task Menu in minimized items
+    - Fixed the placement of settings window
+    - Fixed value of topmost not getting kept
+    - Use the main settings instead of config.txt
+    - Due Date Fixed
+    - Updated ctk library for better features
+    - Less storage used! (around 20mb)
