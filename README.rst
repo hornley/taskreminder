@@ -1,10 +1,12 @@
 **********************
 Task Reminder by hornley
 **********************
-Version: Alpha-2.0.1
+Version: Alpha-2.0.0
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Task Reminder is written in **Python**.
+
+**CHECK FOR UPDATES DOES NOT WORK AS OF THIS MOMENT!**
 
 
 How to use::
@@ -94,5 +96,3 @@ versions
     - Due Date Fixed
     - Updated ctk library for better features
     - Less storage used! (around 20mb)
-- Alpha-2.0.1 (10-14-2023)
-    - Fixed Check for updates function!
